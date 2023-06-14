@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    flex: auto;
+  }
+  
+  .react-kanban-column {
+    background-color: rgb(194, 215, 239);
+  }
+  
+  .react-kanban-card {
+    background-color: rgb(99, 166, 225);
+    color: rgb(238, 233, 233);
+  }
+  
+  .react-kanban-card__title {
+    font-size: large;
+    text-decoration: underline;
+    font-style: italic;
+  }
+  
+  .react-kanban-card--dragging {
+    transform: rotate(90deg);
+    background-color: rgb(154, 154, 143);
+    color: rgb(96, 125, 230);
+  }
+  

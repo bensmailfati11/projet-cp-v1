@@ -1,0 +1,42 @@
+.Home{
+    display:flex;
+    /* background-color: darkgreen; */
+}
+/* .countair{
+    position:center;
+    padding-top:100px;
+    padding-left: 0px
+} */
+
+.readme{
+
+    width:700px;
+    height: 750px;
+    /* background-color: aqua; */
+
+
+    /* background-attachment: fixed; */
+}
+.icon{
+    background-image :url('./img/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width:600px;
+    height: 750px;
+    padding-top:200px;
+    padding-left: 400px
+}
+
+.LoginApp{
+    /* background-color: #b72727; */
+    width:800px;
+    height: 750px;
+    padding-left: 10px;
+}
+.countair{
+}
+
+
+
+
+
